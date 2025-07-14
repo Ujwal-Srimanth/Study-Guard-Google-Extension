@@ -1,0 +1,1 @@
+console.log("Study Guard content script loaded.");
